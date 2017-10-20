@@ -1,10 +1,10 @@
 {
-    "name": "ejsmont-artur/php-circuit-breaker",
+    "name": "salestreamsoft/php-circuit-breaker",
     "type": "library",
     "description": "PHP Circuit Breaker component",
     "keywords": ["circuit breaker","graceful", "error handling"],
     "license": "MIT",
-    "homepage": "https://github.com/ejsmont-artur/php-circuit-breaker",
+    "homepage": "https://github.com/salestreamsoft/php-circuit-breaker",
     "authors": [
         {
             "name": "Artur Ejsmont",
